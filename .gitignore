@@ -1,0 +1,5 @@
+# Ignore specific folder
+aircraft_damage_dataset_v1/
+node_modules/
+__pycache__/
+.env
